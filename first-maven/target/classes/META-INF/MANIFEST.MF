@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot Testing
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Dipen
+Implementation-Vendor-Id: com.ipen.springbootquickstart
+Build-Jdk: 1.8.0_211
+Implementation-URL: http://projects.spring.io/spring-boot/first-maven/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
